@@ -6,7 +6,7 @@
     background-attachment: fixed;
   }
   
-  p, ul, h1, h2, h3, hr, .titleImage, a {
+  p, ul, h1, h2, h3, hr, .titleImage, a, hr {
     color: rgba(190, 160, 30);
   }
   
