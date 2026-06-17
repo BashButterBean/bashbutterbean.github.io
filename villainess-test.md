@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <style>
   @font-face {
     font-family: 'Lora', serif;
