@@ -48,6 +48,33 @@
     text-align:center;
     font-size: 40px;
   }
+
+  .characterTitle {
+    width: 414px;
+    height:309px;
+    line-height:32px;
+    background-image: url(https://cdn.discordapp.com/attachments/516160284428337152/1516527466318135427/namebox.png?ex=6a32f7c3&is=6a31a643&hm=769eff208e8d4882af92ae00240ee29e63bbfeaec237ad96a62e0029049afe53&g);
+    text-align:center;
+    font-size:16px;
+  }
+
+  .characterFrame {
+    width: 1500px;
+    height:1980px;
+    line-height:32px;
+    background-image: url(https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6);
+    text-align:center;
+    font-size:16px;
+  }
+
+  .testImage {
+    width: 298px;
+    height:74px;
+    line-height:32px;
+    background-image: url(https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55);
+    text-align:center;
+    font-size:16px;
+  }
   
   div {
     margin:auto;
