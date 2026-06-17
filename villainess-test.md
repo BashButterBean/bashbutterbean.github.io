@@ -51,6 +51,7 @@
   
   div {
     margin:auto;
+    background:transparent;
   }
   
   .container {
