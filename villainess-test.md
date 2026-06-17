@@ -73,7 +73,7 @@
     max-height:100%;
     max-width:100%;
     border:none;
-    background:transparent;
+    background:transparent !important;
   }
   
   .imageButton {
