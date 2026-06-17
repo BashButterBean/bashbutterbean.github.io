@@ -70,7 +70,7 @@
     width: 414px;
     height:309px;
     line-height:32px;
-    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&");
+    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&") no-repeat;
     text-align:center;
     font-size:16px;
   }
@@ -79,7 +79,7 @@
     width: 1500px;
     height:1980px;
     line-height:32px;
-    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6");
+    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6") no-repeat;
     text-align:center;
     font-size:16px;
   }
@@ -88,7 +88,7 @@
     width: 298px;
     height:74px;
     line-height:32px;
-    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55");
+    background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55") no-repeat center;
     text-align:center;
     font-size:16px;
   }
@@ -124,12 +124,12 @@
   }
   
   .linkButton {
-    width: 1286px;
-    height: 35px;
-    line-height:35px;
+    width: 684px;
+    height: 46px;
+    line-height:46px;
     background: url("https://cdn.discordapp.com/attachments/516160284428337152/1516867834976927895/button.png?ex=6a3434c1&is=6a32e341&hm=c7deee57011967a03805851a38f2bc3770af4f453d7a744badface4727571c05&") no-repeat center;
     text-align:center;
-    font-size: 16px;
+    font-size: 20px;
     background-size: contain;
     margin-top:10px;
   }
@@ -161,12 +161,6 @@
 
 </style>
 
-
-<script>
-  window.linkButton = '<img src="https://cdn.discordapp.com/attachments/516160284428337152/1516530912358305962/choice_idle_background.png?ex=6a32faf9&is=6a31a979&hm=8bf7955b713a9c246a5b42f12e56f9c57a0ee58be906c8fda9ee368e485ed47b" onMouseOver="this.src=\'https://cdn.discordapp.com/attachments/516160284428337152/1516576493428543649/choice_hover_background.png?ex=6a33256c&is=6a31d3ec&hm=c4a70cf31502d4545f57ad920925cc23e2433a4d3ced228ff3132add5d5c116d\'" onMouseOut="this.src=\'https://cdn.discordapp.com/attachments/516160284428337152/1516530912358305962/choice_idle_background.png?ex=6a32faf9&is=6a31a979&hm=8bf7955b713a9c246a5b42f12e56f9c57a0ee58be906c8fda9ee368e485ed47b\'">'
-  window.linkButton2 = '<img class="imageButton">'
-</script>
-
 <div class="container">
   <div class="group">
     <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55"/>
@@ -191,12 +185,12 @@
     
     <div class="grid-container">
       <div>
-        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516527466318135427/namebox.png?ex=6a32f7c3&is=6a31a643&hm=769eff208e8d4882af92ae00240ee29e63bbfeaec237ad96a62e0029049afe53&g"/>
+        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
         <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
       </div>
       <div>
-      <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516527466318135427/namebox.png?ex=6a32f7c3&is=6a31a643&hm=769eff208e8d4882af92ae00240ee29e63bbfeaec237ad96a62e0029049afe53&g"/>
-      <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
+        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
+        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
       </div>
     </div>
     
