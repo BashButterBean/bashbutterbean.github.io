@@ -8,8 +8,9 @@
     font-style: normal;
   }
 
-  html {
+  html, body {
     height:100%;
+    background:transparent !important;
   }
   
   body {
