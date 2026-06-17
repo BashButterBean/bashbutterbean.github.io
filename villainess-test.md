@@ -160,9 +160,7 @@
   
 </style>
 
-<header>
-  <!-- TL;DR -->
-</header>
+
 
 <div class="container">
   <div class="group">
