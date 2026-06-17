@@ -1,18 +1,21 @@
 <style>
+
+  @font-face {
+    font-family: 'Lora', serif;
+    font-optical-sizing: auto;
+    src: url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
  
-  * {
-     font-family: "Lora", serif;
-     font-optical-sizing: auto;
-     font-weight: <weight>;
-     font-style: normal;
-      background:transparent;
-    }
-  
   body {
     background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516575134721376277/bg_draft.png?ex=6a332428&is=6a31d2a8&hm=f48a30e9a3d2315de53819a260deba7a935e8bb0a353afe7a92b5ef17a843698");
     background-repeat: no-repeat;
     background-position:center;
     background-attachment: fixed;
+    font-family: "Lora", serif;
+    font-weight: <weight>;
+    font-style: normal;
   }
   
   p, ul, h1, h2, h3, hr, .titleImage, a {
@@ -167,12 +170,6 @@
   window.linkButton = '<img src="https://cdn.discordapp.com/attachments/516160284428337152/1516530912358305962/choice_idle_background.png?ex=6a32faf9&is=6a31a979&hm=8bf7955b713a9c246a5b42f12e56f9c57a0ee58be906c8fda9ee368e485ed47b" onMouseOver="this.src=\'https://cdn.discordapp.com/attachments/516160284428337152/1516576493428543649/choice_hover_background.png?ex=6a33256c&is=6a31d3ec&hm=c4a70cf31502d4545f57ad920925cc23e2433a4d3ced228ff3132add5d5c116d\'" onMouseOut="this.src=\'https://cdn.discordapp.com/attachments/516160284428337152/1516530912358305962/choice_idle_background.png?ex=6a32faf9&is=6a31a979&hm=8bf7955b713a9c246a5b42f12e56f9c57a0ee58be906c8fda9ee368e485ed47b\'">'
   window.linkButton2 = '<img class="imageButton">'
 </script>
-
-<head>
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
-</head>
 
 <div class="container">
   <div class="group">
