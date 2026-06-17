@@ -1,5 +1,9 @@
 <style>
 
+  * {
+    background:transparent !important;
+  }
+  
   @font-face {
     font-family: 'Lora', serif;
     font-optical-sizing: auto;
@@ -120,7 +124,6 @@
     max-height:100%;
     max-width:100%;
     border:none;
-    background:transparent !important;
   }
   
   .imageButton {
