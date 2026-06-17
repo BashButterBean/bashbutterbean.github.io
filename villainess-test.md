@@ -26,10 +26,7 @@
   }
 
   hr {
-    border: 0.0rem solid #fff;
-    border-radius: 0rem;
-    width: 20rem;
-    opacity: 1.0;
+    background:transparent;
   }
   
   ul {
