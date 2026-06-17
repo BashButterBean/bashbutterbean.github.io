@@ -1,7 +1,10 @@
 <style>
-
+ 
   * {
-      font-family: sans-serif;
+     font-family: "Lora", serif;
+     font-optical-sizing: auto;
+     font-weight: <weight>;
+     font-style: normal;
       background:transparent;
     }
   
@@ -165,6 +168,11 @@
   window.linkButton2 = '<img class="imageButton">'
 </script>
 
+<head>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+</head>
 
 <div class="container">
   <div class="group">
