@@ -6,7 +6,7 @@
     background-attachment: fixed;
   }
   
-  p, ul, h1, h2, h3, hr, .titleImage, a, hr {
+  p, ul, h1, h2, h3, hr, .titleImage, a {
     color: rgba(190, 160, 30);
   }
   
@@ -23,6 +23,13 @@
   
   a:hover {
     color: rgba(200, 140, 30);
+  }
+
+  hr {
+    border: 0.0rem solid #fff;
+    border-radius: 0rem;
+    width: 20rem;
+    opacity: 1.0;
   }
   
   ul {
