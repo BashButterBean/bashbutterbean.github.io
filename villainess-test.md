@@ -51,7 +51,6 @@
   
   div {
     margin:auto;
-    background-color:transparent;
   }
   
   .container {
@@ -73,6 +72,8 @@
     margin:auto;
     max-height:100%;
     max-width:100%;
+    background-image:url();
+    background-color:transparent;
   }
   
   .imageButton {
