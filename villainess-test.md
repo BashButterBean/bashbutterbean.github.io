@@ -7,13 +7,16 @@
     font-weight: 700;
     font-style: normal;
   }
- 
+
+  html {
+    height:100%;
+  }
+  
   body {
     background-image: url("https://cdn.discordapp.com/attachments/516160284428337152/1516575134721376277/bg_draft.png?ex=6a332428&is=6a31d2a8&hm=f48a30e9a3d2315de53819a260deba7a935e8bb0a353afe7a92b5ef17a843698");
     background-repeat: no-repeat;
     background-position:center;
     background-attachment: fixed;
-    height:100%;
   }
   
   p, ul, h1, h2, h3, hr, .titleImage, a {
