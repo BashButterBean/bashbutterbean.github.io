@@ -1,8 +1,4 @@
 <style>
-
-  * {
-    background:transparent !important;
-  }
   
   @font-face {
     font-family: 'Lora', serif;
@@ -17,9 +13,7 @@
     background-repeat: no-repeat;
     background-position:center;
     background-attachment: fixed;
-    font-family: "Lora", serif;
-    font-weight: <weight>;
-    font-style: normal;
+    height:100%;
   }
   
   p, ul, h1, h2, h3, hr, .titleImage, a {
