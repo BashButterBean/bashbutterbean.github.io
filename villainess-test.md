@@ -160,6 +160,10 @@
   
 </style>
 
+<header>
+  <!-- TL;DR -->
+</header>
+
 <div class="container">
   <div class="group">
     <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55"/>
