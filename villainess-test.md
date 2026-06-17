@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <style>
-  
   @font-face {
     font-family: 'Lora', serif;
     font-optical-sizing: auto;
@@ -33,7 +33,7 @@
   a:hover {
     color: rgba(200, 140, 30);
   }
-
+  
   hr {
     background:transparent;
     border: 0.0rem solid #fff;
@@ -65,7 +65,7 @@
     text-align:center;
     font-size: 40px;
   }
-
+  
   .characterTitle {
     width: 414px;
     height:309px;
@@ -74,7 +74,7 @@
     text-align:center;
     font-size:16px;
   }
-
+  
   .characterFrame {
     width: 1500px;
     height:1980px;
@@ -83,7 +83,7 @@
     text-align:center;
     font-size:16px;
   }
-
+  
   .testImage {
     width: 298px;
     height:74px;
@@ -105,7 +105,7 @@
   h1, h2, h3 {
     text-align:center;
   }
-
+  
   input {
     max-height:100%;
     max-width:100%;
@@ -137,8 +137,8 @@
   .linkButton:hover {
     background: url("https://cdn.discordapp.com/attachments/516160284428337152/1516867834439929887/buttonhover.png?ex=6a3434c1&is=6a32e341&hm=1a113f1c8023d5aa0bd6b3c5474c2f7b2a0010d2358a504f69f352caba82afb3&") no-repeat center;
     background-size: contain;
-  }  
-
+  }
+  
   .grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
@@ -158,62 +158,56 @@
     margin-top: 20px;
     border: 2px solid rgba(190, 160, 30);
   }
-
+  
 </style>
 
-<div class="container">
-  <div class="group">
-    <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55"/>
-    <div class="titleImage">Tagline</div>
-    
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus.</p>
-    
-    <hr>
-    
-    <div>
-      <h3 class="h2">Features</h3>
-      <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien.</li>
-        <li>Curabitur in metus urna.</li>
-      </ul>
-    </div>
-    
-  </div>
-  
-  <div class="group">
-    <div class="titleImage">Characters</div>
-    
-    <div class="grid-container">
+<body>
+  <div class="container">
+    <div class="group">
+      <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55"/>
+      <div class="titleImage">Tagline</div>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus.</p>
+      <hr>
       <div>
-        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
-        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
-      </div>
-      <div>
-        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
-        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
+        <h3 class="h2">Features</h3>
+        <ul>
+          <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien.</li>
+          <li>Curabitur in metus urna.</li>
+        </ul>
       </div>
     </div>
-    
-  </div>
-  
-  <div class="group">
-    <div class="titleImage">Screenshots</div>
-    <div>
-      <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
-      <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
-      <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
+    <div class="group">
+      <div class="titleImage">Characters</div>
+      <div class="grid-container">
+        <div>
+          <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
+          <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
+        </div>
+        <div>
+          <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516867834708230394/title.png?ex=6a3434c1&is=6a32e341&hm=2ddd2cb29b4a3ba6ef58d2ae71e02c286658584ddd308a9c48aebad155819c54&"/>
+          <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
+        </div>
+      </div>
     </div>
-  </div>
-  
-  <div class="group">
-    <div class="titleImage">Links</div>
-    <a class="linkButton" href="https://www.w3schools.com/html">
+    <div class="group">
+      <div class="titleImage">Screenshots</div>
+      <div>
+        <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
+        <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
+        <img class="screenshot" src="https://cdn.discordapp.com/attachments/516160284428337152/1516558035441680584/Screenshot_2026-06-16_151830.png?ex=6a33143b&is=6a31c2bb&hm=e50ab964f09f44533f32247bc3c0915a723ccbaf24dd1805c53e831f4852c8e7">
+      </div>
+    </div>
+    <div class="group">
+      <div class="titleImage">Links</div>
+      <a class="linkButton" href="https://www.w3schools.com/html">
       HTML
-    </a>
-    <a class="linkButton" href="https://www.w3schools.com/css">
+      </a>
+      <a class="linkButton" href="https://www.w3schools.com/css">
       CSS
-    </a>
-    <a class="linkButton" href="https://www.w3schools.com/javascript">
+      </a>
+      <a class="linkButton" href="https://www.w3schools.com/javascript">
       Javascript
-    </a>
-</div>
+      </a>
+    </div>
+  </div>
+</body>
