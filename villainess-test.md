@@ -164,20 +164,16 @@
   <div class="group">
     <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516531569345564843/slot_idle_background.png?ex=6a32fb95&is=6a31aa15&hm=c3733787af3d9fcaeeb23a14984b42aa1bb461b453cc454bc39dccb6ce071f55"/>
     <div class="titleImage">Tagline</div>
-    
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus.
     </p>
-    
     <hr>
     <div>
       <h3 class="h2">Features</h3>
-      
       <ul>
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget sapien sapien.</li>
         <li>Curabitur in metus urna.</li>
       </ul>
-      
     </div>
   </div>
   <div class="group">
