@@ -191,7 +191,7 @@
     
     <div class="grid-container">
       <div>
-        <p class="characterTitle"/>Test</p>
+        <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516527466318135427/namebox.png?ex=6a32f7c3&is=6a31a643&hm=769eff208e8d4882af92ae00240ee29e63bbfeaec237ad96a62e0029049afe53&g"/>
         <img src="https://cdn.discordapp.com/attachments/516160284428337152/1516619101924098159/avatar_frame_1.png?ex=6a334d1b&is=6a31fb9b&hm=ea89794e7043fbb0c0facb2fcdf2e5aeb259ecb502a6ec25d9b510d7e6989fa6"/>
       </div>
       <div>
